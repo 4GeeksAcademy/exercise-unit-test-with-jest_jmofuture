@@ -33,6 +33,7 @@ Then follow these instructions:
 
 ## What is this exercise about?
 
+
 We are going to be using the Jest library to build a program capable of converting numeric values from one currency to another:
 
 | Function name     | Description                                                           |
